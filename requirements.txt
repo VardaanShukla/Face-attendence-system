@@ -1,4 +1,5 @@
-﻿asgiref
+django
+asgiref
 certifi
 charset-normalizer
 colorama
